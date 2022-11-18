@@ -6,7 +6,7 @@ const config = {
   reference: (new Date()).getTime().toString(),
   email: "user@example.com",
   amount: 20000,
-  publicKey: 'pk_test_dsdfghuytfd2345678gvxxxxxxxxxx',
+  publicKey: 'pk_test_70ea7e0019ec64ae118c17b2ebdac7ce65368caa',
 };
 
 export const Paystack=()=> {
