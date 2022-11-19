@@ -20,6 +20,7 @@ import {CgPhone} from "react-icons/cg"
 import { H2 } from "../../components/h2/h2";
 import { Volunteer } from "../../components/volunteer/volunteer";
 import { Footer } from "../../components/footer/footer";
+import { H1 } from "../../components/h1/h1";
 // import { Header } from "../../components/header/header";
 
 const Hero = () => {
@@ -68,6 +69,7 @@ const Hero = () => {
     <Container>
       {/* <Header/> */}
       <WrapperContainer>
+        <H1 color="#fff">Nicholas Akinwale Agbeni Foundation</H1>
         <OrangeHeaderText top="40px">Our Mission and Purpose</OrangeHeaderText>
         <TextContainer>
           <P>
