@@ -70,10 +70,10 @@ const Hero = () => {
       {/* <Header/> */}
       <WrapperContainer>
         <H1 color="#fff">Nicholas Akinwale Agbeni Foundation</H1>
-        <OrangeHeaderText top="40px">Our Mission and Purpose</OrangeHeaderText>
         <TextContainer>
+        <OrangeHeaderText top="40px">Our Mission and Purpose</OrangeHeaderText>
           <P>
-          Nicholas A A Foundationis a Non-Profit Organization set
+          N A A Foundationis a Non-Profit Organization set
             up with a mission to meet humanitarian needs in the best way as it
             can with focus centered on:
             To serve the public interest by supporting the 

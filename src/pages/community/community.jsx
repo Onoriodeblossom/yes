@@ -63,7 +63,7 @@ const Community = () => {
           </Flex>
         </Flex>
         <TextContainer>
-          <P align={"start"} color="#515151">
+          {/* <P align={"start"} color="#515151">
             Thousands of community are currently neglected and completely cut
             out of national budget with little to no access to basic amenities
             such as clean water, 3/24 hours light, motorable roads, to name but
@@ -78,7 +78,7 @@ const Community = () => {
             Our success on this mission will be significant with a kind touch of
             many hands including yours. Join us today in sponsoring communities'
             access to a better life and an improved standard of living.
-          </P>
+          </P> */}
         </TextContainer>
         <OrangeHeaderText>Our Impact stories</OrangeHeaderText>
         <Flex>

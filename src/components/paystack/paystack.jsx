@@ -24,18 +24,19 @@ export const Paystack=()=> {
 
   const componentProps = {
       ...config,
-      text: 'Paystack Button Implementation',
+      text: 'Donate',
       onSuccess: (reference) => handlePaystackSuccessAction(reference),
       onClose: handlePaystackCloseAction,
   };
 
   return (
     <div className="App">
-     
-       
-      <PaystackButton {...componentProps} />
+      <PaystackButton style={{color:"red"}} {...componentProps} />
     </div>
   );
 }
 
 export default Paystack;
+
+
+
