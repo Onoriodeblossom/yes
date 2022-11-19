@@ -87,6 +87,18 @@ const Hero = () => {
             <ImageCard src={image} text={text} to={path}  />
           ))}
         </Flex>
+        {/* <TextContainer>
+
+        <P>
+        In order to do the above, 
+        we need financial donation, sponsorship,
+         volunteers, donors and partners to help our 
+         cause. Would you consider making a donation, 
+         fund or give alms to assist us in our fundraising event? Please feel free to encourage your friends, colleagues and neighbours to give to our campaign. Giving a little is better than not giving at all. Thank you so much for reading this message and for being part of the journey to bring joy, hope and happiness to the less fortunate, disadvantaged and challenged in our society. Your financial donation, assistance, support 
+        and good heart will go a long way to bringing comfort, peace and assurance to those in need. Thanks again for your generosity.
+        </P>
+        </TextContainer> */}
+
       </WrapperContainer>
         <ContactUsContainer>
         <CardContainer>
