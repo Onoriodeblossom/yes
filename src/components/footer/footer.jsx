@@ -1,6 +1,9 @@
 import React from "react";
 import { P } from "../p/p";
 import logo from "../../assets/logo.png"
+import {AiOutlineMail}  from "react-icons/ai"
+import {HiOutlineLocationMarker} from "react-icons/hi"
+
 import { Container, Flex, FooterContainer, Name, SearchButton, SearchContainer, SearchInput, SearchInputContainer } from "./styles";
 
 export const Footer = () =>{
@@ -24,7 +27,7 @@ export const Footer = () =>{
 
                     <img src={logo} alt="nnx"/>
                     <Name  >Nicholas Akinwale Agbeni Foundation</Name>
-                    <P align={"center"}>A Non-Profit Organization set up with a 
+                    <P align={"start"}>A Non-Profit Organization set up with a 
                         mission to meet humanitarian needs in the best way as it can.</P>
                     </Flex>
 
@@ -44,37 +47,35 @@ export const Footer = () =>{
 
 <Name>Resourse</Name>
 
-<P align={"start"}>Landing Page</P>
-<P align={"start"}>content</P>
-<P align={"start"}>Content web design</P>
+<P align={"start"}>Academy Page</P>
+<P align={"start"}>Blog</P>
+<P align={"start"}>Themes </P>
 
-<P align={"start"}>Landing Page</P>
-<P align={"start"}>content</P>
-<P align={"start"}>Content web design</P>
+<P align={"start"}> Support</P>
+<P align={"start"}>Developer</P>
+
 </Flex>
 
 <Flex flexDirection="column" width="10%" justifyContent={"center"}>
 
 <Name>Company</Name>
 
-<P align={"start"}>Landing Page</P>
-<P align={"start"}>content</P>
-<P align={"start"}>Content web design</P>
+<P align={"start"}>About Us</P>
+<P align={"start"}>Contact Us</P>
 
-<P align={"start"}>Landing Page</P>
-<P align={"start"}>content</P>
-<P align={"start"}>Content web design</P>
+<P align={"start"}>FAQs</P>
+<P align={"start"}>Teams</P>
 </Flex>
 <Flex flexDirection="column" width="10%" justifyContent={"center"}>
 
 <Name>Contact Us</Name>
 
-<P align={"start"}>Landing Page</P>
-<P align={"start"}>content</P>
-<P align={"start"}>Content web design</P>
-<P align={"start"}>Landing Page</P>
-<P align={"start"}>content</P>
-<P align={"start"}>Content web design</P>
+<P align={"start"}> <HiOutlineLocationMarker/>
+8 Ebumawe Avenue, Ajaguro Village, Ikorodu Lagos Nigeria </P>
+<P align={"start"}> <AiOutlineMail/>naafnig22@gmail.com</P>
+<P>+234 8098881004</P>
+<Name>Follow us</Name>
+<Flex></Flex>
 </Flex>
                 </Flex>
 

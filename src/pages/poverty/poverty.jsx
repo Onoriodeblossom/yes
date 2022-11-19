@@ -70,7 +70,7 @@ const Poverty = () => {
             phenomenon.
           </P>
           <P align={"start"} color="#515151">
-            At Nagbeni Foundation, we have embarked on a mission to give these
+            At N A A Foundation, we have embarked on a mission to give these
             precious souls the Audacity of hope. We believe no one should go to
             bed hungry in a world where there is abundance. officia deserunt
             mollit anim id est laborum.

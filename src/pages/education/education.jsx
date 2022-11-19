@@ -71,7 +71,7 @@ const   Education = () =>{
                     the financial requirement to nurture their dreams.
                     </P>
                     <P align={"start"} color="#515151">
-                    At Nagbeni foundation,
+                    At N A A foundation,
                      we are on a mission to 
                      save these dreams, and to 
                     build a bridge of knowledge and competence by:

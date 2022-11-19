@@ -71,9 +71,15 @@ const Hero = () => {
         <OrangeHeaderText top="40px">Our Mission and Purpose</OrangeHeaderText>
         <TextContainer>
           <P>
-            N A A FOUNDATION is a Non-Profit Organization set
+          Nicholas Akinwale Agbeni Foundationis a Non-Profit Organization set
             up with a mission to meet humanitarian needs in the best way as it
             can with focus centered on:
+            To serve the public interest by supporting the 
+            less fortunate through principles of humanity. 
+            To make real impact on society. To support, 
+            encourage, improve social wellbeing. To assist
+             the young, growing youths and the elderly in the society 
+
           </P>
         </TextContainer>
         <Flex width={"80%"}>

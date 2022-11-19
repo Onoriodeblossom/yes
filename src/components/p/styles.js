@@ -1,7 +1,7 @@
 import styled from "styled-components"
 
 export const  Text = styled.p`
-font-family:inter ;
+/* font-family:inter ; */
 color:${(props)=> props.color ? props.color : "#fff"};
 font-size: ${(props)=>props.size ? props.size : "16px"};
 font-weight: 500;

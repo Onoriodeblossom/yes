@@ -71,7 +71,7 @@ const Community = () => {
             living".
           </P>
           <P align={"start"} color="#515151">
-            At nagbenin foundation, we believe we can bridge the gap in a
+            At N A A foundation, we believe we can bridge the gap in a
             significant wa by embarking non community development projects.
           </P>
           <P color="#515151">
