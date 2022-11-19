@@ -5,7 +5,7 @@ import { PaystackButton } from 'react-paystack';
 const config = {
   reference: (new Date()).getTime().toString(),
   email: "user@example.com",
-  amount: 20000,
+  amount: 500000,
   publicKey: 'pk_test_70ea7e0019ec64ae118c17b2ebdac7ce65368caa',
 };
 
