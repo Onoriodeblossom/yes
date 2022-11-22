@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4152c3d3.css",
+    "main.js": "/static/js/main.719c3bbc.js",
+    "static/js/787.364214df.chunk.js": "/static/js/787.364214df.chunk.js",
+    "static/media/b.png": "/static/media/b.7148ab0d4fe6035dbe5d.png",
+    "static/media/a.png": "/static/media/a.fcc03c2f8ee71be23124.png",
+    "static/media/poverty.png": "/static/media/poverty.06d58bcbf8f12c21f55f.png",
+    "static/media/1.png": "/static/media/1.d5717f00aea39275991a.png",
+    "static/media/10.png": "/static/media/10.cb305d75bf61829f5a0c.png",
+    "static/media/3.png": "/static/media/3.24665d5242af6539a7c5.png",
+    "static/media/2.png": "/static/media/2.5d82d903557113a3d33c.png",
+    "static/media/one.png": "/static/media/one.e9a364dd18a68014ee3d.png",
+    "static/media/4.png": "/static/media/4.340018b3c6faec7d28fd.png",
+    "index.html": "/index.html",
+    "main.4152c3d3.css.map": "/static/css/main.4152c3d3.css.map",
+    "main.719c3bbc.js.map": "/static/js/main.719c3bbc.js.map",
+    "787.364214df.chunk.js.map": "/static/js/787.364214df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4152c3d3.css",
+    "static/js/main.719c3bbc.js"
+  ]
+}
