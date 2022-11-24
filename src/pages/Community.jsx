@@ -7,6 +7,7 @@ import image2 from "../assets/user1.jpg";
 import image3 from "../assets/user2.png";
 import image4 from "../assets/user3.jpg";
 import image5 from "../assets/user4.jpg";
+import { Link } from "react-router-dom";
 
 const Community = () => {
   const heroImages = [
@@ -59,9 +60,12 @@ const Community = () => {
                     “Be the difference! Lay a hand on your <br /> community
                     today”
                   </h3>
-                  <button className=" bg-orange-400 py-2 text-uppercase -mt-1 text-white rounded-md font-semibold text-sm px-4">
-                    Donate Now
-                  </button>
+
+                  <Link to="/donation">
+                    <button className=" bg-orange-400 py-2 text-uppercase -mt-1 text-white rounded-md font-semibold text-sm px-4">
+                      Get involved today
+                    </button>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -70,37 +74,31 @@ const Community = () => {
                 <h1 className="" style={{ fontSize: "40px" }}>
                   Community Development <br /> Projects
                 </h1>
+
                 <div className="flex space-x-3 mt-3">
-                  <button className=" bg-orange-400 py-2.5 -mt-1 text-white rounded-md font-semibold text-sm sm:px-4 px-3">
-                    Donate Now
-                  </button>
-                  <button className=" bg-dark py-2.5 -mt-1 border-orange-400 text-orange-400  rounded-md font-semibold text-sm sm:px-4 px-3">
-                    Become a Volunteer
-                  </button>
+                  <Link to="/donation">
+                    <button className=" bg-orange-400 py-2.5 -mt-1 text-white rounded-md font-semibold text-sm sm:px-4 px-3">
+                      Donate Now
+                    </button>
+                  </Link>
+                  <Link to="/donation">
+                    <button className=" bg-dark py-2.5 -mt-1 border-orange-400 text-orange-400  rounded-md font-semibold text-sm sm:px-4 px-3">
+                      Become a Volunteer
+                    </button>
+                  </Link>
                 </div>
               </div>
               <p className="text-gray-600 mt-4 font-normal text-sm sm:text-lg opacity-90 px-3 sm:px-3">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
+                Thousands of community are currently neglected and completely
+                cut out of national budget with little to no access to basic
+                amenities such as clean water, 3/24 hours light, motorable
+                roads, to name but a few leading to the grand definition of
+                "Lowest standard of living". At NAA Foundation, we believe we
+                can bridge the gap in a significant way by embarking non
+                community development projects. Our success on this mission will
+                be significant with a kind touch of many hands including yours.
+                Join us today in sponsoring communities' access to a better life
+                and an improved standard of living.
               </p>
             </div>
           </div>

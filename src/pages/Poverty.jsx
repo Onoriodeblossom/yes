@@ -60,7 +60,7 @@ const Poverty = () => {
                   </h3>
                   <Link to="/donation">
                     <button className=" bg-orange-400 py-2 text-uppercase -mt-1 text-white rounded-md font-semibold text-sm px-4">
-                      Donate Now
+                      Get involved today
                     </button>
                   </Link>
                 </div>
@@ -85,27 +85,20 @@ const Poverty = () => {
                 </div>
               </div>
               <p className="text-gray-600 mt-4 font-normal text-sm sm:text-lg opacity-90 px-3 sm:px-3">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
+                Millions of people are currently living below poverty level and
+                battling with hunger with every ounce of their little strength
+                due to rising inflation, conflict, disaster and other natural
+                phenomenon. At NAA Foundation, we have embarked on a mission to
+                give these precious souls the Audacity of hope. We believe no
+                one should go to bed hungry in a world where there is abundance.
+                Join us on our mission to reduce poverty and hunger to a minimum
+                level and rescue millions from the torment of hunger. <br />{" "}
+                involved in the best way you can by
+                <ol>
+                  <li>Sponsoring meals</li>
+                  <li>Volunteering</li>
+                  <li>Referring someone to donate to this cause</li>
+                </ol>
               </p>
             </div>
           </div>

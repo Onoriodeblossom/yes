@@ -33,20 +33,52 @@ const About = () => {
         <div className="container">
           <div className="hero-text text-center mt-16">
             <h2 className="capitalize text-orange-400">
-              Our misson and purpose
+              Mission, Ethos and Goals of the Foundation:
             </h2>
             <p className=" text-white font-normal text-sm sm:text-lg opacity-90 text-center">
-              NICHOLAS AKINWALE AGBENI FOUNDATION is a Non-Profit Organization
-              set up with a mission to meet humanitarian needs in the best way
-              as it can with focus centered on:
+              To serve the public interest by supporting the less fortunate
+              through principles of humanity. To make real impact on society. To
+              support, encourage, improve social wellbeing. To assist the young,
+              growing youths and the elderly in the society
             </p>
           </div>
         </div>
       </div>
 
-      {/* meet the team */}
-      <div className=" py-5">
+      <div className=" py-3">
         <div className="container">
+          <h2 className="text-md">Our Purpose</h2>
+
+          <ol className="p-o">
+            <li>Community Development</li>
+            <li>Relieve Poverty and Hunger</li>
+            <li>Encourage Education, Skill and Trade</li>
+            <li>
+              {" "}
+              Being generous, having compassion and eliminate loneliness{" "}
+            </li>
+            <li> Food Distribution</li>
+          </ol>
+          <p className="lead font-semibold">
+            In order to do the above, we need financial donation, sponsorship,
+            volunteers, donors and partners to help our cause. Would you
+            consider making a donation, fund or give alms to assist us in our
+            fundraising event? Please feel free to encourage your friends,
+            colleagues and neighbours to give to our campaign. Giving a little
+            is better than not giving at all. Thank you so much for reading this
+            message and for being part of the journey to bring joy, hope and
+            happiness to the less fortunate, disadvantaged and challenged in our
+            society. Your financial donation, assistance, support and good heart
+            will go a long way to bringing comfort, peace and assurance to those
+            in need. Thanks again for your generosity.
+          </p>
+        </div>
+      </div>
+
+      {/* meet the team */}
+      <div className=" py-5" style={{ backgroundColor: "#fafafa" }}>
+        <div className="container">
+          <h2 className="text-md mb-5">Get to Know Us More</h2>
           <div className="row">
             {about.map((item, index) => {
               const { Image, Text, Content } = item;

@@ -3,6 +3,7 @@ import Navbar from "./components/Navbar";
 import poverty from "./assets/poverty.png";
 import education from "./assets/b.png";
 import community from "./assets/a.png";
+import Gallery from "./components/Gallery";
 import health from "./assets/c.png";
 import image2 from "./assets/image2.png";
 import image3 from "./assets/image3.png";
@@ -156,6 +157,7 @@ const App = () => {
           Title="Encourage Education, skills Acquisition and Trade"
           Info=" Millions of children are currently out of school and skill acquisition centre due to extreme poverty.Join us on our mission to keep his hope and dreams alive a mission to move his mountains and a million others."
         />
+        <Gallery />
         <EventsLeft
           image={community}
           Snips="“Be the difference! Lay a hand

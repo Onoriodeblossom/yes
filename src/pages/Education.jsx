@@ -61,7 +61,7 @@ const Education = () => {
                   </h3>
                   <Link to="/donation">
                     <button className=" bg-orange-400 py-2 text-uppercase -mt-1 text-white rounded-md font-semibold text-sm px-4">
-                      Donate Now
+                      Get involved today
                     </button>
                   </Link>
                 </div>
@@ -86,27 +86,30 @@ const Education = () => {
                 </div>
               </div>
               <p className="text-gray-600 mt-4 font-normal text-sm sm:text-lg opacity-90 px-3 sm:px-3">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
+                Bridge of knowledge Millions of children, teens, and young
+                adults are currently out of schools, and million others have
+                zero access to skills acquisition centers due to extreme
+                poverty. Hearts blistering with passion for knowledge and
+                ability to make a difference in our world have had their hope
+                brought to a halt, mainly due to inability to meet up with the
+                financial requirement to nurture their dreams.
+                <br /> At NAA Foundation, we are on a mission to save these
+                dreams, and to build a bridge of knowledge and competence by:
+                <ol>
+                  <li>Sponsoring education</li>
+                  <li>Sponsoring skills acquisition</li>
+                  <li> Sponsoring intelligent initiatives and</li>
+                  <li>
+                    Supporting trades It is our conviction that everyone has the
+                    ability to make a difference if given the opportunity
+                  </li>
+                </ol>
+                Get involved in the best way you can. You can:
+                <ol>
+                  <li>Sponsor a skill</li>
+                  <li>Donate for education</li>
+                  <li>Refer someone to donate 4. Sponsor a trade</li>
+                </ol>
               </p>
             </div>
           </div>

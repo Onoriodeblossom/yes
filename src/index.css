@@ -36,6 +36,10 @@ ul li a {
   margin: 0% 1%;
 }
 
+ol li {
+  list-style-type: decimal;
+}
+
 .her {
   background: url("./assets/1.png");
 }
@@ -67,4 +71,9 @@ ul li a {
 
 .mobile {
   display: none;
+}
+
+.ga-img img {
+  width: 80%;
+  margin: 5% auto;
 }

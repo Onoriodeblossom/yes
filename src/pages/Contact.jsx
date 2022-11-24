@@ -91,12 +91,19 @@ const Contact = () => {
                 </button>
               </form>
             </div>
-            <div className="col-lg-6 flex items-center justify-center">
-              <img src={contactImg} alt="" srcset="" width={"70%"} />
+            <div className="col-lg-6">
+              <h2 className="text-md">Contact Details</h2>
+              <p className="lead">
+                Email: naafnig22@gmail.com <br /> Reg. No 189612 <br /> Date of
+                Reg: 6/10/2022 <br />
+                NAA FOUNDATION 8 Ebumawe Avenue, Ajaguro Village, Ikorodu Lagos
+                Nigeria +234 8098881004
+              </p>
             </div>
           </div>
         </div>
       </div>
+      <div className="border container  py-5"></div>
 
       <Footer />
       <ToastContainer />
